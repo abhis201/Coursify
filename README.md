@@ -1,1 +1,1 @@
-This is the frontend of the V
+This is the frontend of the Coursify App. Made on React+Vite. Uses Recoil for State Management

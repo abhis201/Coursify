@@ -1,2 +1,1 @@
-# Coursify
-A Course Selling App
+This is the frontend of the V
